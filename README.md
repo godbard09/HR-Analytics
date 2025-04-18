@@ -2,7 +2,7 @@
 The HR Analytics Dashboard is an interactive data visualization project aimed at analyzing employee attrition to support strategic HR decision-making. Using Power BI, the dashboard presents key metrics and insights to help identify patterns and risk factors associated with employee turnover.
 
 # Key Highlights
-* Analyzed employee attrition by age group, salary range, job role, education field, and years at the company.
+* Analyzed employee attrition by education field, age group, salary range, job role, education field, and years at the company.
 
 * Identified high-risk groups, such as employees aged 26–35, those earning below $5,000/month, and those with less than 2 years of tenure.
 
