@@ -1,18 +1,21 @@
 # Project Overview
 The HR Analytics Dashboard is an interactive data visualization project aimed at analyzing employee attrition to support strategic HR decision-making. Using Power BI, the dashboard presents key metrics and insights to help identify patterns and risk factors associated with employee turnover.
 
-# Key Highlights
-* Analyzed employee attrition by education field, age group, salary range, job role, education field, and years at the company.
+# Insights
+* **Attrition Rate:** The dataset reveals an attrition rate of 16.08%, which suggests that a notable portion of employees are leaving the company. The average employee tenure is relatively short, with an average of just 7.01 years at the company.
+* **Education and Attrition:** Employees from different educational backgrounds exhibit varied attrition patterns. A significant portion of attrition (31.76%) comes from those with a background in Life Sciences. This group also represents the largest number of employees in the dataset, suggesting that attrition is a major issue in this field.
+* **Age Group Trends:** The most significant attrition occurs within the 26-35 age group, with a declining trend as age increases. This could indicate that younger employees are more likely to leave the company, potentially seeking better opportunities or advancement.
+* **Salary and Attrition:** Employees earning between $5K and $10K have the highest attrition rates. This might suggest that salary dissatisfaction plays a significant role in employees’ decisions to leave the company.
+* **Job Role and Attrition:** The role of "Sales Executive" has the highest attrition, with 329 employees leaving over the observed period. This suggests that retention strategies may need to be re-evaluated for this role.
+* **Years at Company vs. Attrition:** The attrition rate spikes significantly within the first few years at the company, after which it levels off. This may indicate that employees who do not find satisfaction or career growth in their early years are more likely to leave.
 
-* Identified high-risk groups, such as employees aged 26–35, those earning below $5,000/month, and those with less than 2 years of tenure.
+# Recommendations
 
-* Compared attrition across different job roles – Sales Executives and Laboratory Technicians showed the highest turnover.
+* **Employee Retention Programs:** Focus on improving retention, particularly for younger employees (26-35 years) and those in roles like "Sales Executive." Offering career advancement opportunities, mentorship programs, and regular feedback can help mitigate early-stage attrition.
+* **Salary Review:** Employees earning between $5K and $10K should be reviewed for potential salary adjustments or bonuses to increase satisfaction and reduce turnover, as salary seems to correlate with higher attrition rates.
+* **Targeted Support for High Attrition Roles:** Given the high attrition in the "Sales Executive" role, implement targeted strategies to address issues in this role, such as improved compensation packages, better work-life balance, and more robust training programs.
+* **Enhance Employee Engagement:** Focus on increasing engagement for employees in departments with high attrition, such as Life Sciences, by enhancing team communication, career development resources, and offering more work-life balance initiatives.
+* **Early Career Development:** With attrition being high in the first few years, it’s important to invest in early career development programs. Offering clear career progression paths, training, and support for new hires could help increase employee retention.
 
-* Created clear visualizations (bar, pie, line charts) for better understanding and engagement.
-
-# Outcomes
-* Enabled HR teams and managers to take data-driven actions to improve employee retention.
-
-* Supported the development of more targeted onboarding, compensation, and engagement strategies.
 # Final Results
 ![image](https://github.com/user-attachments/assets/57de27a0-0fd1-49ee-836c-15a4a735b048)
